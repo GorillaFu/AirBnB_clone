@@ -31,7 +31,6 @@ button:hover {
     position: relative;
     top: 50%;
     margin-top: -50%;
-    margin-left: 40px;
 }
 
 .locations {
@@ -42,29 +41,32 @@ button:hover {
     position: relative;
     top: 50%;
     margin-top: -50%;
-    margin-left: 40px;
 }
 
 .locations h3 {
     font-weight: 600;
     margin-bottom: 0;
+    margin-left: 40px;
 }
 
 .amenities h3 {
     font-weight: 600;
     margin-bottom: 0;
+    margin-left: 40px;
 }
 
 .locations h4 {
     font-size: 14px;
     font-weight: 400;
     margin-top: 0;
+    margin-left: 40px;
 }
 
 .amenities h4 {
     font-size: 14px;
     font-weight: 400;
     margin-top: 0;
+    margin-left: 40px;
 }
 
 .popover {
