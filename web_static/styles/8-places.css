@@ -33,13 +33,13 @@
     font-size: 30px;
     vertical-align: top;
     text-align: left;
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
 .information {
     height: 80px;
-    border-top: 1px solid #DDDDDD
-    border-bottom: 1px solid #DDDDDD
+    border-top: 1px solid #DDDDDD;
+    border-bottom: 1px solid #DDDDDD;
 }
 
 .max_guest {
