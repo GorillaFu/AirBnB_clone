@@ -8,7 +8,14 @@
     font-size: 30px
 }
 
-.places article h2 {
+.places h2 {
+   text-align: center;
+  justify-content: center;
+  font-size: 30px;
+  margin: 0 auto;
+}
+
+.places article {
     width: 390px;
     padding: 20px;
     margin: 20px;
