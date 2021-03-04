@@ -64,3 +64,13 @@
 .description {
 
 }
+
+.places p {
+  font-size: 14px;
+  text-align: left;
+}
+
+.places .information p {
+  margin-top: 50px;
+  text-align: left;
+}
