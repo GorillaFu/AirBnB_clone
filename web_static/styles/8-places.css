@@ -22,7 +22,8 @@
     border: 1px solid #FF5A5F;
     border-radius: 4px;
     font-size: 30px;
-    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .price_by_night {
@@ -47,6 +48,7 @@
     border-top: 1px solid #DDDDDD;
     border-bottom: 1px solid #DDDDDD;
     display: flex;
+    width: 100%;
     justify-content: space-around;
 }
 
