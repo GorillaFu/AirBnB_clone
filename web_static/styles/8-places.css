@@ -9,7 +9,7 @@
 .places h1 {
     text-align: left;
     vertical-align: top;
-    font-size: 30px
+    font-size: 30px;
     flex-basis: 90%;
 }
 
