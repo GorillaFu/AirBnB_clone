@@ -129,3 +129,29 @@
   font-size: 14px;
   padding-inline-start:0px;
 }
+
+.reviews {
+  margin-top: 40px;
+  width: 100%;
+}
+
+.reviews h2 {
+  font-size: 16px;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.reviews li {
+  list-style: none;
+}
+
+.reviews ul {
+  list-style: none;
+}
+
+.reviews h3 {
+  font-size: 14px;
+}
+
+.reviews p {
+  font-size: 12px;
+}
