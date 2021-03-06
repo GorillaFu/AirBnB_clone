@@ -72,6 +72,21 @@
     background-repeat: no-repeat;
 }
 
+.pet_friendly {
+    background-image: url(../images/icon_pets.png);
+    background-repeat: no-repeat;
+}
+
+.television {
+    background-image: url(../images/icon_tv.png);
+    background-repeat: no-repeat;
+}
+
+.wifi {
+    background-image: url(../images/icon_wifi.png);
+    background-repeat: no-repeat;
+}
+
 .user {
     margin: 0px
 }
