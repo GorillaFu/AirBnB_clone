@@ -105,19 +105,19 @@
   text-align: left;
 }
 
-.amenities {
+.place_amenities {
   margin-top: 40px;
 }
 
-.amenities h2 {
+.place_amenities h2 {
   font-size: 16px;
   border-bottom: 1px solid #DDDDDD;
 }
 
-.amenities li {
+.place_amenities li {
   list-style: none;
 }
 
-.amenities ul {
+.place_amenities ul {
   list-style: none;
 }
