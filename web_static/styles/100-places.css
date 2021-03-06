@@ -75,16 +75,19 @@
 .pet_friendly {
     background-image: url(../images/icon_pets.png);
     background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .television {
     background-image: url(../images/icon_tv.png);
     background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .wifi {
     background-image: url(../images/icon_wifi.png);
     background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .user {
