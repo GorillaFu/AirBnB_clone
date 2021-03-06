@@ -116,6 +116,7 @@
 .place_amenities h2 {
   font-size: 16px;
   border-bottom: 1px solid #DDDDDD;
+  text-align: left;
 }
 
 .place_amenities li {
@@ -127,7 +128,6 @@
 .place_amenities ul {
   list-style: none;
   font-size: 14px;
-  padding-inline-start:0px;
 }
 
 .reviews {
