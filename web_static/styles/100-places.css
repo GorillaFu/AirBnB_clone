@@ -110,6 +110,7 @@
 
 .place_amenities {
   margin-top: 40px;
+  width: 100%;
 }
 
 .place_amenities h2 {
@@ -120,9 +121,11 @@
 .place_amenities li {
   list-style: none;
   font-size: 14px;
+  text-align: left;
 }
 
 .place_amenities ul {
   list-style: none;
   font-size: 14px;
+  padding-inline-start:0px;
 }
